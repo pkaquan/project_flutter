@@ -1,0 +1,75 @@
+🧩 Điều khoản sử dụng
+
+1. Giới thiệu
+• Tên hệ thống: AnhWanIoT
+• Cung cấp bởi: Phạm Khoa Anh Quân
+• Mục đích: cung cấp nền tảng quản lý, giám sát và điều khiển thiết bị IoT.
+• Khi sử dụng hệ thống, người dùng đồng ý tuân thủ điều khoản này.
+
+2. Quyền và nghĩa vụ của người dùng
+• Cung cấp thông tin chính xác khi đăng ký tài khoản.
+• Không can thiệp, phá hoại, hoặc truy cập trái phép vào hệ thống, thiết bị, hay dữ liệu của người khác.
+• Không sử dụng hệ thống vào mục đích vi phạm pháp luật, gây hại cho người khác hoặc cộng đồng.
+• Người dùng chịu trách nhiệm bảo mật thông tin tài khoản và thiết bị của mình.
+
+3. Quyền và nghĩa vụ của nhà cung cấp
+• Đảm bảo duy trì hệ thống ổn định, an toàn, hạn chế tối đa gián đoạn.
+• Có quyền tạm ngưng hoặc chấm dứt tài khoản nếu phát hiện hành vi vi phạm.
+• Có quyền cập nhật, thay đổi tính năng mà không cần thông báo trước, nếu cần thiết để đảm bảo chất lượng dịch vụ.
+
+4. Quy định về thiết bị và kết nối
+• Hệ thống chỉ hỗ trợ các thiết bị đã được chứng nhận tương thích.
+• Việc kết nối thiết bị bên thứ ba có thể yêu cầu cấp quyền truy cập nhất định (Wi-Fi, Bluetooth, API, v.v.).
+• Nhà cung cấp không chịu trách nhiệm nếu người dùng sử dụng phần cứng không được khuyến nghị.
+
+5. Giới hạn trách nhiệm
+• Hệ thống không chịu trách nhiệm về thiệt hại phát sinh do lỗi từ thiết bị, đường truyền, hoặc hành vi của người dùng.
+• Các thông tin, cảnh báo, dữ liệu đo lường chỉ mang tính hỗ trợ tham khảo, không thay thế cho quyết định của con người.
+
+6. Quyền sở hữu trí tuệ
+• Toàn bộ mã nguồn, giao diện, nội dung, dữ liệu và thương hiệu thuộc quyền sở hữu của nhà cung cấp.
+• Người dùng không được sao chép, sửa đổi, hoặc phân phối lại dưới bất kỳ hình thức nào khi chưa có sự cho phép bằng văn bản.
+
+7. Sửa đổi và hiệu lực
+• Điều khoản này có thể được cập nhật theo thời gian.
+• Phiên bản mới sẽ có hiệu lực ngay khi được công bố trên ứng dụng hoặc trang web.
+
+🔒 Chính sách bảo mật
+
+1. Dữ liệu thu thập
+• Hệ thống có thể thu thập:
+• Thông tin tài khoản: email, tên, số điện thoại.
+• Thông tin thiết bị: mã định danh, trạng thái cảm biến, nhật ký hoạt động.
+• Thông tin kỹ thuật: địa chỉ IP, loại thiết bị, phiên bản ứng dụng.
+
+2. Mục đích sử dụng dữ liệu
+• Cung cấp, duy trì và cải thiện chất lượng dịch vụ.
+• Gửi thông báo (ví dụ: cảnh báo từ thiết bị, cập nhật hệ thống).
+• Phân tích hành vi sử dụng để tối ưu hiệu năng và trải nghiệm người dùng.
+• Tuân thủ yêu cầu của pháp luật khi cần thiết.
+
+3. Chia sẻ dữ liệu
+• Không bán hoặc cho thuê dữ liệu người dùng.
+• Dữ liệu chỉ được chia sẻ với:
+• Nhà cung cấp dịch vụ lưu trữ (ví dụ Firebase, AWS).
+• Cơ quan pháp luật nếu có yêu cầu hợp pháp.
+• Bên thứ ba được người dùng ủy quyền rõ ràng.
+
+4. Bảo mật dữ liệu
+• Dữ liệu được mã hóa trong quá trình truyền và lưu trữ.
+• Chỉ những nhân viên có thẩm quyền mới được truy cập dữ liệu.
+• Người dùng được quyền yêu cầu xoá hoặc xuất dữ liệu của mình.
+
+5. Cookie & Tracking
+• Ứng dụng có thể sử dụng cookie hoặc token để xác thực đăng nhập.
+• Người dùng có thể tắt cookie nhưng có thể bị hạn chế tính năng.
+
+6. Thay đổi chính sách
+• Chính sách có thể được cập nhật định kỳ để phản ánh thay đổi về pháp lý hoặc kỹ thuật.
+• Phiên bản cập nhật sẽ được thông báo qua email hoặc ứng dụng.
+
+7. Liên hệ
+• Nếu có thắc mắc, người dùng có thể liên hệ:
+• Email: mam4ch333@gmail.com
+• Hotline: 0947807023
+• Địa chỉ: 114 Đặng Nhữ Lâm, Thọ Quang, Sơn Trà, Đà Nẵng
