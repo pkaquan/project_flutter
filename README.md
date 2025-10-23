@@ -80,7 +80,7 @@ Flutter UI → BLoC → UseCase → Repository → Firebase
 
 ```bash
 git clone https://github.com/pkaquan/project_flutter.git
-cd smart_home_flutter
+cd project_flutter
 ```
 
 ### 2️⃣ Cài dependencies:
