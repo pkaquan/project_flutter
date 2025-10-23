@@ -21,7 +21,7 @@ Người dùng có thể **điều khiển thiết bị, theo dõi cảm biến,
 
 ## 🚀 Giới thiệu
 
-**Smart Home App** là một ứng dụng Flutter cho phép:
+**AnhWanIoT** là một ứng dụng Flutter cho phép:
 
 * Điều khiển thiết bị điện (bật/tắt đèn, quạt…)
 * Theo dõi dữ liệu cảm biến (nhiệt độ, độ ẩm, gas…)
