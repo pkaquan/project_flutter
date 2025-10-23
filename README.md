@@ -45,7 +45,6 @@ Người dùng có thể **điều khiển thiết bị, theo dõi cảm biến,
 * ☁️ Lưu dữ liệu thời gian thực bằng **Firebase Firestore**
 * 📩 Nhận thông báo bằng **Firebase Cloud Messaging**
 * 🧱 Quản lý quyền người dùng (Admin / User)
-* 🖼️ Upload avatar lên **Firebase Storage**
 
 ---
 
@@ -67,10 +66,10 @@ Flutter UI → BLoC → UseCase → Repository → Firebase
 
 ## 🛠 Công nghệ sử dụng
 
-* **Flutter 3.22**
-* **Dart 3**
-* **Firebase Auth / Firestore / Storage / FCM**
-* **BLoC + Freezed + Equatable**
+* **Flutter**
+* **Dart**
+* **Firebase Auth / Firestore / FCM**
+* **BLoC + Equatable**
 * **Clean Architecture**
 
 ---
@@ -80,7 +79,7 @@ Flutter UI → BLoC → UseCase → Repository → Firebase
 ### 1️⃣ Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/smart_home_flutter.git
+git clone https://github.com/pkaquan/project_flutter.git
 cd smart_home_flutter
 ```
 
@@ -108,19 +107,40 @@ flutter run
 
 ```
 lib/
- ┣ data/
- ┃ ┣ models/
- ┃ ┣ repositories/
- ┣ domain/
- ┃ ┣ entities/
- ┃ ┣ usecases/
- ┣ presentation/
- ┃ ┣ blocs/
- ┃ ┣ screens/
- ┃ ┣ widgets/
  ┣ core/
  ┃ ┣ utils/
  ┃ ┣ constants/
+ ┣ core/
+ ┃ ┣ utils/
+ ┃ ┣ constants/
+ ┣feature
+ ┃ ┣ auth/
+ ┃ ┃ ┣ data/
+ ┃ ┃ ┃ ┣ datasource/
+ ┃ ┃ ┃ ┣ models/
+ ┃ ┃ ┃ ┣ repositories/
+ ┃ ┃ ┣ domain/
+ ┃ ┃ ┃ ┣ repositories/
+ ┃ ┃ ┃ ┣ entities/
+ ┃ ┃ ┃ ┣ usecases/
+ ┃ ┃ ┣ presentation/
+ ┃ ┃ ┃ ┣ blocs/
+ ┃ ┃ ┃ ┣ controller/
+ ┃ ┃ ┃ ┣ screens/
+ ┃ ┃ ┃ ┣ widgets/
+ ┃ ┣ dashboard/
+ ┃ ┃ ┣ data/
+ ┃ ┃ ┃ ┣ datasource/
+ ┃ ┃ ┃ ┣ models/
+ ┃ ┃ ┃ ┣ repositories/
+ ┃ ┃ ┣ domain/
+ ┃ ┃ ┃ ┣ repositories/
+ ┃ ┃ ┃ ┣ entities/
+ ┃ ┃ ┃ ┣ usecases/
+ ┃ ┃ ┣ presentation/
+ ┃ ┃ ┃ ┣ blocs/
+ ┃ ┃ ┃ ┣ screens/
+ ┃ ┃ ┃ ┣ widgets/
 ```
 
 ---
@@ -129,13 +149,12 @@ lib/
 
 * Thêm chế độ điều khiển bằng giọng nói
 * Hỗ trợ nhiều thiết bị cùng lúc
-* Giao diện Dark Mode
-* Dashboard quản lý nâng cao cho Admin
+* Tự động xử lí hình ảnh bằng AI lấy từ Storage (Firebase)
 
 ---
 
 ## 👨‍💻 Tác giả
 
-**Nguyễn Anh Quân**
-📧 Email: [anhquan117@gmail.com](mailto:anhquan117@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/anhquan117) | [GitHub](https://github.com/pkaquan)
+**Phạm Khoa Anh Quân**
+📧 Email: [mam4ch333@gmail.com](mailto:mam4ch333@gmail.com)
+🔗 [GitHub](https://github.com/pkaquan)
