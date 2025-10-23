@@ -107,12 +107,16 @@ flutter run
 
 ```
 lib/
+ ┣ config/
+ ┃ ┣ images/
+ ┃ ┣ routers/
+ ┃ ┣ text/
+ ┃ ┣ themes/
  ┣ core/
+ ┃ ┣ di/
+ ┃ ┣ errors/
+ ┃ ┣ service/
  ┃ ┣ utils/
- ┃ ┣ constants/
- ┣ core/
- ┃ ┣ utils/
- ┃ ┣ constants/
  ┣feature
  ┃ ┣ auth/
  ┃ ┃ ┣ data/
